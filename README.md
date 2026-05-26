@@ -1,8 +1,8 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
-### Name: Shehan Shajahan
-### Register Number: 212223240154
+### Name: SHASHANK R
+### Register Number: 212223230205
 
-## DATE: 21/04/2025
+## DATE: 26/05/2026
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
